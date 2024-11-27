@@ -18,6 +18,8 @@ The repository is structured as follows:
 - **ollama-streaming**: This project demonstrates the use of the Ollama LLM service (which is based on the LLaMA model) with streaming output.
 - **openai-completion**: This project shows how to use the OpenAI LLM service to generate text completions, with the ability to control parameters like temperature and stop words.
 - **openai-o1**: This project demonstrates the use of the OpenAI O1 model, which is a specialized model optimized for certain use cases.
+- **expert-agent**: This project show agentic flow with experts using OpenAI models, Customizable and easy to use.
+- **resume-agent**: This project demonstrates a simple chat application that simulates a recruiter for a specific candidate, using Google's Gemini Pro model. The chatbot utilizes a knowledge base to answer questions about Mark's experience and qualifications effectively.
 
 Each project has a `main.go` file that serves as the entry point and contains the core functionality.
 
