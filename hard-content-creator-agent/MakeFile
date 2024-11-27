@@ -1,0 +1,7 @@
+.DEFAULT_GOAL := run
+
+run:
+	go run cmd/api/main.go
+
+export_key:
+	$(eval GOOGLE_APPLICATION_CREDENTIALS="service-account-key.json")
