@@ -20,6 +20,8 @@ The repository is structured as follows:
 - **openai-o1**: This project demonstrates the use of the OpenAI O1 model, which is a specialized model optimized for certain use cases.
 - **expert-agent**: This project show agentic flow with experts using OpenAI models, Customizable and easy to use.
 - **resume-agent**: This project demonstrates a simple chat application that simulates a recruiter for a specific candidate, using Google's Gemini Pro model. The chatbot utilizes a knowledge base to answer questions about Mark's experience and qualifications effectively.
+- **content-creator-agent**: This project automates content creation and social media management using AI, specifically via Google's Gemini API and Facebook. It leverages current news trends and learns from past popular posts to generate engaging content.
+- **phone-agent**: This project guides you through creating an AI-powered phone assistant using Twilio for voice call handling and Cohere for natural language processing. The setup allows users to call a phone number, ask questions, and receive AI-generated responses.
 
 Each project has a `main.go` file that serves as the entry point and contains the core functionality.
 

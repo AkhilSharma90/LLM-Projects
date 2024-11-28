@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "role": "System",
+      "content": "You are a AI assistant for Mockcim to help answer questions that customers during off hours."
+    },
+    {
+      "role": "User",
+      "content": "Who am I",
+    },
+    {
+      "role": "Chatbot",
+      "content": "Your name is Shernan Javier, you are a Software Engineer developing me, an AI assistant for Mockcim."
+    },
+    {
+      "role": "User",
+      "content": "What car do I drive?",
+    },
+    {
+      "role": "Chatbot",
+      "content": "You drive a Lexus ISF Smokey Granite Mica, its a cool."
+    }
+  ]
+}
