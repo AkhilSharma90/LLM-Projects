@@ -18,7 +18,7 @@ func main() {
 
 	// Initialize the Anthropic client (API key will be read from env var)
 	llm, err := anthropic.New(
-		anthropic.WithModel("claude-3-sonnet-20240229"), // Or another model
+		anthropic.WithModel("claude-3-5-sonnet-latest"), // Or another model
 	)
 	if err != nil {
 		log.Fatalf("Error creating Anthropic client: %v", err)
